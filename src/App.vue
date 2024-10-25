@@ -8,5 +8,4 @@ import { Edit } from '@element-plus/icons-vue'
   </div>
 </template>
 
-<style scoped scss>
-</style>
+<style scoped scss></style>

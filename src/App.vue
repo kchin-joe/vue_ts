@@ -1,5 +1,4 @@
 <script setup lang="ts">
-const test1 = 'aaa'
 </script>
 
 <template>

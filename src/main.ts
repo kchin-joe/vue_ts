@@ -7,6 +7,16 @@ import 'element-plus/dist/index.css'
 import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 import 'virtual:svg-icons-register'
 import gloablComponent from './components/index'
+// import axios from 'axios'
+
+// axios({
+//   url: '/api/user/login',
+//   method: 'post',
+//   data: {
+//     username: 'admin',
+//     password: '1111121'
+//   }
+// })
 
 const app = createApp(App)
 app.use(gloablComponent)

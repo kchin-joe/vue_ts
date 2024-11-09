@@ -7,6 +7,7 @@ import Test from '@/components/test.vue'
   <div class="box">
     <el-button type="primary" :icon="Edit">按钮</el-button>
     <Test></Test>
+    <SvgIcon name="calender" />
   </div>
 </template>
 
